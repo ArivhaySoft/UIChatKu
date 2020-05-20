@@ -1,0 +1,3 @@
+rootProject.name='chatBody'
+include ':app'
+include ':uichatku'
